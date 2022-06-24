@@ -1,1 +1,3 @@
-# ideas_jupyter_notebook
+Copy at will
+
+Feel free to add ideas
